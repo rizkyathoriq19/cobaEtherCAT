@@ -1,0 +1,17 @@
+{
+  "name": "cobaethercat",
+  "version": "1.0.0",
+  "main": "example.js",
+  "scripts": {
+    "dev": "node example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  
+  "dependencies": {
+    "etherlab-nodejs": "^0.1.3"
+  },
+  "devDependencies": {}
+}

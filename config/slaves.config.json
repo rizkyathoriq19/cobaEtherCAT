@@ -1,0 +1,133 @@
+[
+   {
+      "alias": 0,
+      "position": 0,
+      "vendor_id": "0x00000002",
+      "product_code": "0x044c2c52",
+      "name": "EK1100",
+      "revision": "0x00110000",
+      "serial": "0x00000000"
+   },
+   {
+      "alias": 0,
+      "position": 1,
+      "vendor_id": "0x00000002",
+      "product_code": "0x07d83052",
+      "name": "EL2008-0015",
+      "revision": "0x0010000f",
+      "serial": "0x00000000",
+      "syncs": [
+          {
+              "index": 0,
+              "watchdog_enabled": true,
+              "direction": "output",
+              "pdos": [
+                  {
+                      "index": "0x1600",
+                      "entries": [
+                          {
+                              "index": "0x7000",
+                              "subindex": "0x01",
+                              "size": 1,
+                              "add_to_domain": true,
+                              "swap_endian": false,
+                              "signed": false
+                          }
+                      ]
+                  },
+                  {
+                      "index": "0x1601",
+                      "entries": [
+                          {
+                              "index": "0x7010",
+                              "subindex": "0x01",
+                              "size": 1,
+                              "add_to_domain": true,
+                              "swap_endian": false,
+                              "signed": false
+                          }
+                      ]
+                  },
+                  {
+                      "index": "0x1602",
+                      "entries": [
+                          {
+                              "index": "0x7020",
+                              "subindex": "0x01",
+                              "size": 1,
+                              "add_to_domain": true,
+                              "swap_endian": false,
+                              "signed": false
+                          }
+                      ]
+                  },
+                  {
+                      "index": "0x1603",
+                      "entries": [
+                          {
+                              "index": "0x7030",
+                              "subindex": "0x01",
+                              "size": 1,
+                              "add_to_domain": true,
+                              "swap_endian": false,
+                              "signed": false
+                          }
+                      ]
+                  },
+                  {
+                      "index": "0x1604",
+                      "entries": [
+                          {
+                              "index": "0x7040",
+                              "subindex": "0x01",
+                              "size": 1,
+                              "add_to_domain": true,
+                              "swap_endian": false,
+                              "signed": false
+                          }
+                      ]
+                  },
+                  {
+                      "index": "0x1605",
+                      "entries": [
+                          {
+                              "index": "0x7050",
+                              "subindex": "0x01",
+                              "size": 1,
+                              "add_to_domain": true,
+                              "swap_endian": false,
+                              "signed": false
+                          }
+                      ]
+                  },
+                  {
+                      "index": "0x1606",
+                      "entries": [
+                          {
+                              "index": "0x7060",
+                              "subindex": "0x01",
+                              "size": 1,
+                              "add_to_domain": true,
+                              "swap_endian": false,
+                              "signed": false
+                          }
+                      ]
+                  },
+                  {
+                      "index": "0x1607",
+                      "entries": [
+                          {
+                              "index": "0x7070",
+                              "subindex": "0x01",
+                              "size": 1,
+                              "add_to_domain": true,
+                              "swap_endian": false,
+                              "signed": false
+                          }
+                      ]
+                  }
+              ]
+          }
+      ]
+   }
+ ]
